@@ -22,7 +22,7 @@ library(surveydown)
 # ignore = FALSE or just delete this argument.
 
 db <- sd_db_connect(
-  ignore = TRUE
+  ignore = FALSE
 )
 
 
