@@ -1,0 +1,15 @@
+# Use Apple Clang instead of GCC
+CC=clang
+CXX=clang++
+CXX11=clang++
+CXX14=clang++
+CXX17=clang++
+CXX20=clang++
+
+# Set appropriate flags
+CFLAGS=-g -O2
+CXXFLAGS=-g -O2
+CXX11FLAGS=-g -O2
+CXX14FLAGS=-g -O2
+CXX17FLAGS=-g -O2
+CXX20FLAGS=-g -O2

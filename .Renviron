@@ -1,0 +1,2 @@
+# Use the custom Makevars file for compilation
+R_MAKEVARS_USER=~/.R/Makevars.user
